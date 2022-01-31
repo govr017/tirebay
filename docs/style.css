@@ -1,0 +1,18 @@
+body {
+    font-family: 'Space Mono', monospace;
+    background-color:rgb(39, 61, 80);
+    font-size: 40px;
+}
+.logo {
+    font-size: 100px;
+    margin-left: 150px;
+}
+.tor {
+    background-color:rgb(28, 43, 56);
+    border-radius: 5px;
+    font-size: 20px;
+}
+a {
+    text-decoration: none;
+    color: chartreuse;
+}
