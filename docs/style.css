@@ -7,12 +7,25 @@ body {
     font-size: 100px;
     margin-left: 150px;
 }
+.google {
+    background-color:rgb(28, 43, 56);
+    border-radius: 5px;
+    font-size: 20px;
+    color: chocolate;
+}
 .tor {
     background-color:rgb(28, 43, 56);
     border-radius: 5px;
     font-size: 20px;
+    color: chartreuse;
+}
+.soft {
+    background-color:rgb(28, 43, 56);
+    border-radius: 5px;
+    font-size: 20px;
+    color:cornflowerblue;
+    margin-bottom: 10px;
 }
 a {
     text-decoration: none;
-    color: chartreuse;
 }
